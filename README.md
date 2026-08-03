@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Aspiring DevOps Engineer & Cloud Architect | Cloud Lead at GDGC | CSE with Specialization in Data Science| Open to collaborating and Learning
+Software Engineer | Cloud Lead at GDGC | CSE with Specialization in Data Science| Open to collaborating and Learning
 
 
 ## 🌐 Socials:
